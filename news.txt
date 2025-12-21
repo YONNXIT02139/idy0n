@@ -1,0 +1,21 @@
+#HEAD
+UPDATE TERBARU
+
+#NEWS
+- Server up
+- Fix bug
+- Update fitur
+
+#VIP
+VIP FILE
+Harga: Discount 8%
+Benefit:
+Auto HS
+Fast update
+
+#MOD
+MOD MENU
+Harga: Discount 2%
+Benefit:
+No Lose
+No Root
